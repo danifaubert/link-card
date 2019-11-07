@@ -36,7 +36,7 @@ html {
   display: block;
   margin: 0 0 1rem;
   font-size: 1.5rem;
-  font-family: 'Dosis', sans-serif;
+  font-family: Dosis, sans-serif;
 }
 
 .link-card dl {
@@ -63,7 +63,7 @@ html {
   padding: .5em .75em;
   border-radius: 8px;
   color: #f0eee8;
-  font-family: 'Dosis', sans-serif;
+  font-family: Dosis, sans-serif;
   text-decoration: none;
   margin-top: .75em;
 }
