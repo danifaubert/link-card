@@ -15,6 +15,10 @@ html {
   text-align: center;
 }
 
+.link-card:hover {
+  background-color: #cabdb2;
+}
+
 .link-card li {
   display: inline-block;
   background-color: #dcd4cd;
@@ -28,11 +32,7 @@ html {
   font-family: Georgia, serif;
 }
 
-.link-card li:hover {
-  background-color: #cabdb2
-}
-
-.link-card strong {
+.link-card h2 {
   display: block;
   margin: 0 0 1rem;
   font-size: 1.5rem;
