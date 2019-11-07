@@ -39,8 +39,13 @@ html {
   font-family: Dosis, sans-serif;
 }
 
+p {
+  border-bottom: 1px solid #512200;
+}
+
 .link-card dl {
   margin: 0 0 1rem;
+  border-bottom: 1px solid #512200;
 }
 
 .link-card dt {
